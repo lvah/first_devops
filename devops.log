@@ -1,0 +1,55 @@
+INFO 2019-12-19 15:26:14 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 15:26:29 views : 23 127.0.0.1 already exists
+INFO 2019-12-19 15:26:29 basehttp : 154 "GET /sendinfos/ HTTP/1.1" 200 184
+INFO 2019-12-19 15:43:59 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 15:43:59 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 15:44:30 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 15:44:30 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 15:44:46 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 15:44:47 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 15:45:06 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 15:45:07 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 15:45:27 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 15:45:28 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 15:46:35 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 15:46:35 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 15:47:05 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 15:47:05 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 15:47:20 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 15:47:20 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 15:47:45 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 15:47:45 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 15:48:11 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 15:48:11 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 15:48:21 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 15:48:21 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 15:48:48 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 15:48:48 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 15:49:24 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 15:49:24 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 15:49:36 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 15:49:37 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 15:49:54 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 15:49:54 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 15:53:59 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/scanhosts/views.py changed, reloading.
+INFO 2019-12-19 15:54:00 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 16:07:47 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 16:07:48 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 16:08:10 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 16:08:10 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 16:08:20 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 16:08:21 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 16:08:30 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 16:08:31 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 16:08:43 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 16:08:44 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 16:08:56 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 16:08:56 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 16:09:08 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 16:09:09 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 16:10:08 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 16:10:09 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 16:14:32 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 16:14:33 autoreload : 597 Watching for file changes with StatReloader
+INFO 2019-12-19 16:18:02 autoreload : 217 /home/kiosk/PycharmProjects/first_devops/first_devops/settings.py changed, reloading.
+INFO 2019-12-19 16:18:02 autoreload : 597 Watching for file changes with StatReloader
